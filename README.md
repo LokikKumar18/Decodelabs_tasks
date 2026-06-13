@@ -32,8 +32,6 @@ This repository contains all the projects, assignments, and learning activities 
 * Python
 * NumPy
 * Pandas
-* Matplotlib
-* Seaborn
 * Scikit-Learn
 * Jupyter Notebook
 * Git & GitHub
@@ -45,10 +43,9 @@ This repository contains all the projects, assignments, and learning activities 
 ```text
 DecodeLabs-Internship/
 │
-├── Project-01/
-├── Project-02/
-├── Project-03/
-├── Assignments/
+├── Task-01/
+├── Task -03/
+├── -05/
 ├── Datasets/
 ├── Notebooks/
 └── README.md
@@ -75,13 +72,6 @@ DecodeLabs-Internship/
 * Data Preprocessing
 * Prediction Models
 * Performance Metrics
-
-### 4. Additional Internship Tasks
-
-* Python Programming Exercises
-* Data Science Assignments
-* Mini Projects
-
 ---
 
 # 📊 Skills Gained
@@ -90,7 +80,6 @@ DecodeLabs-Internship/
 * Exploratory Data Analysis (EDA)
 * Machine Learning Fundamentals
 * Model Evaluation Techniques
-* Data Visualization
 * Git and Version Control
 * Problem Solving
 
