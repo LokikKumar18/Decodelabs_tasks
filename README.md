@@ -100,7 +100,7 @@ During this internship, I gained practical experience in:
 # 🔗 GitHub Repository
 
 Repository Link:
-https://github.com/LokikKumar18/DecodeLabs-Internship
+https://github.com/LokikKumar18/Decodelabs-tasks
 
 ---
 
