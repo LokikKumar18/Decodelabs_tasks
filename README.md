@@ -45,7 +45,7 @@ DecodeLabs-Internship/
 │
 ├── Task-01/
 ├── Task -03/
-├── -05/
+├── Task -05/
 ├── Datasets/
 ├── Notebooks/
 └── README.md
